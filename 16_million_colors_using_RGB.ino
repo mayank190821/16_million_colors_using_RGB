@@ -1,4 +1,3 @@
-
 int red=11,blue=10,green=9;
 int i,j,k;
 void setup() {
